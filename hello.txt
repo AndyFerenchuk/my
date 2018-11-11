@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 here is some changes
+=======
+dont see
+>>>>>>> 1eb4bd0be0cd114a86f3cb52a744921687ecb6d9
+fuck
